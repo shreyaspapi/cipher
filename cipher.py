@@ -1,6 +1,5 @@
 import string
 import sys
-import os
 
 def keyString(key, stringtoencrypt):
     stringMade = ""
