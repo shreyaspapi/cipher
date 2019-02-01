@@ -11,7 +11,7 @@ Plaintext: I LOVE SECURITY <br>
 The encryption is performed by writing the key as mnay times as necessary (Can be partially) so that there is a correspondence between each character in the plain text and a character in the key. eg.
 </p>
 <b>
-I  LOVE SECURITY <br>
+I LOVE SECURITY <br>
 C RYPT OCRYPTOC <br>
 </b>
 <br>
