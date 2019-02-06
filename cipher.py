@@ -31,8 +31,8 @@ def timesToEncrypt(num, key, stringToEncrypt):
         num -= 1
     return stringToEncrypt
 
-
 key = input("Key of your encryption: ")
 stringToEncrypt = input("Input the characters you want to encrypt: ")
 timestoencrypt = int(input("No. of times you want to repeat it: "))
-print(timesToEncrypt(timestoencrypt, key, stringToEncrypt))
+encryption = timesToEncrypt(timestoencrypt, key, stringToEncrypt)
+print(encryption)
