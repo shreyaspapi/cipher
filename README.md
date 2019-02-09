@@ -1,4 +1,5 @@
 <h1> Cipher </h1>
+<p>Extra vigenere cipher</p>
 <p>
 This cipher can be used to encrypt text through the use of letter-by-letter substitutions, eg.
 </p>
